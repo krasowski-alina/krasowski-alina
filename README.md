@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Alina
 
 
-🌱 I’m currently learning Redux and Node.JS to become a full stack developer<br>💬 Ask me anything about front-end web development and my projects<br>⚡ Fun fact: I love road trips, the longest I had was over 3000 miles, from Oregon to Florida
+🌱 I’m currently learning Redux and Node.JS to become a full stack developer<br>💬 Ask me anything about front-end web development and my projects<br>⚡ Fun fact: I love road trips, the longest I took was over 3000 miles, from Oregon to Florida
 
 
 ### 🌐 Contact me:
