@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning Redux and Node.JS to become a full stack developer<br>💬 Ask me anything about front-end web development and my projects<br>⚡ Fun fact: I love road trips, the longest I took was over 3000 miles, from Oregon to Florida
 
-### Check out my portfolio:
+### 📌 Check out my portfolio:
 [Portfolio](https://alina-krasowski-portfolio.glitch.me/)<br>
 
 ### 🌐 Contact me:
